@@ -1,0 +1,25 @@
+
+
+
+.intro {
+background-color: darkorange;
+display:flex ;
+justify-content: space-evenly;
+}
+
+.links {
+
+    display:flex ;
+    flex-direction: column;
+    justify-content: space-evenly;
+    }
+
+.MYGAMES{
+
+display: flex;
+flex-direction: row;
+justify-content: space-evenly;
+
+
+
+}
